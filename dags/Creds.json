@@ -1,0 +1,7 @@
+{
+  "user": "postgres",
+  "password": "postgres",
+  "host": "ml-monitoring-airflow.chosqeu484vu.us-east-1.rds.amazonaws.com",
+  "database": "loanDB",
+  "port": 5432
+}
