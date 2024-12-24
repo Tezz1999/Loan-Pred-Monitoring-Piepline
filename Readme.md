@@ -54,7 +54,7 @@ This project builds an end-to-end monitoring pipeline for a loan prediction mode
 ## Workflow Diagram
 Below is the visual representation of the pipeline workflow:
 
-![Workflow Diagram](model diagram.png)
+![Workflow Diagram](dags/model diagram.png)
 
 The pipeline involves:
 1. **Get Data**: Extract data from PostgreSQL.
